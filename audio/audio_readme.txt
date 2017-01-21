@@ -1,0 +1,1 @@
+This directory should contain audio files to test speech recognition quality.
